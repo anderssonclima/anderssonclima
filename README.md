@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anderssonclima
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning SQL, R, Python, and Tableau.
+- 💞️ I’m looking to collaborate on projects involving data analysis on big data.
+- 📫 How to reach me: anderssonclima@gmail.com
